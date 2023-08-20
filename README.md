@@ -1,6 +1,5 @@
 ### Hi! 👋 I'm Fauzi.
-I am a **Frontend Apprentice**.
-If you are interested in getting to know me, please follow my [Linkedin](www.linkedin.com/in/ahmadfauziariyanto) account.
+I am a **Frontend Apprentice** who are currently studying at **STT Nurul Fikri** and also studying at **Dicoding** - *Kampus Merdeka*.
 
 ### Github Statistic
 <p align="left">
